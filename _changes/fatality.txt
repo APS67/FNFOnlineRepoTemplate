@@ -1,0 +1,6 @@
+mods/data/fatality/events.json
+mods/data/fatality/fatality-hard.json
+mods/songs/fatality/Voices.ogg
+mods/songs/fatality/Inst.ogg
+mods/songs/fatality/voices.ogg
+mods/songs/fatality/inst.ogg

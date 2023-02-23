@@ -1,0 +1,6 @@
+mods/data/sunshine-encore/events.json
+mods/data/sunshine-encore/sunshine-encore.json
+mods/songs/sunshine-encore/Voices.ogg
+mods/songs/sunshine-encore/Inst.ogg
+mods/songs/sunshine-encore/voices.ogg
+mods/songs/sunshine-encore/inst.ogg

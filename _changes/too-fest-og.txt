@@ -1,0 +1,5 @@
+mods/data/too-fest-og/too-fest-og-hard.json
+mods/songs/too-fest-og/Voices.ogg
+mods/songs/too-fest-og/Inst.ogg
+mods/songs/too-fest-og/voices.ogg
+mods/songs/too-fest-og/inst.ogg

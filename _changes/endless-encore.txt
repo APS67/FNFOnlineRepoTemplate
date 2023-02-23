@@ -1,0 +1,5 @@
+mods/data/endless-encore/endless-encore.json
+mods/songs/endless-encore/Voices.ogg
+mods/songs/endless-encore/Inst.ogg
+mods/songs/endless-encore/voices.ogg
+mods/songs/endless-encore/inst.ogg

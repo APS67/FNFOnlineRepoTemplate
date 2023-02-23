@@ -1,0 +1,6 @@
+mods/data/malediction/events.json
+mods/data/malediction/malediction-hard.json
+mods/songs/malediction/Voices.ogg
+mods/songs/malediction/Inst.ogg
+mods/songs/malediction/voices.ogg
+mods/songs/malediction/inst.ogg

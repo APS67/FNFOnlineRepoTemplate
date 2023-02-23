@@ -1,0 +1,5 @@
+mods/data/our-horizon/our-horizon-hard.json
+mods/songs/our-horizon/Voices.ogg
+mods/songs/our-horizon/Inst.ogg
+mods/songs/our-horizon/voices.ogg
+mods/songs/our-horizon/inst.ogg

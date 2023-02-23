@@ -1,0 +1,6 @@
+mods/data/my-horizon/events.json
+mods/data/my-horizon/my-horizon-hard.json
+mods/songs/my-horizon/Voices.ogg
+mods/songs/my-horizon/Inst.ogg
+mods/songs/my-horizon/voices.ogg
+mods/songs/my-horizon/inst.ogg

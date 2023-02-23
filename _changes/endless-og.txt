@@ -1,0 +1,6 @@
+mods/data/endless-og/endless-og-hard.json
+mods/data/endless-og/events.json
+mods/songs/endless-og/Voices.ogg
+mods/songs/endless-og/Inst.ogg
+mods/songs/endless-og/voices.ogg
+mods/songs/endless-og/inst.ogg

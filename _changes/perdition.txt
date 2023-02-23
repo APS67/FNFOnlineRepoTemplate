@@ -1,0 +1,6 @@
+mods/data/perdition/perdition-hard.json
+mods/data/perdition/perdition.json
+mods/songs/perdition/Voices.ogg
+mods/songs/perdition/Inst.ogg
+mods/songs/perdition/voices.ogg
+mods/songs/perdition/inst.ogg

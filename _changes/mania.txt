@@ -1,0 +1,6 @@
+mods/data/mania/events.json
+mods/data/mania/mania-hard.json
+mods/songs/mania/Voices.ogg
+mods/songs/mania/Inst.ogg
+mods/songs/mania/voices.ogg
+mods/songs/mania/inst.ogg

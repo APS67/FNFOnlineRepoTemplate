@@ -1,0 +1,5 @@
+mods/data/milk-og/milk-og-hard.json
+mods/songs/milk-og/Voices.ogg
+mods/songs/milk-og/Inst.ogg
+mods/songs/milk-og/voices.ogg
+mods/songs/milk-og/inst.ogg

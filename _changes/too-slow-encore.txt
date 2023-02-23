@@ -1,0 +1,6 @@
+mods/data/too-slow-encore/events.json
+mods/data/too-slow-encore/too-slow-encore.json
+mods/songs/too-slow-encore/Voices.ogg
+mods/songs/too-slow-encore/Inst.ogg
+mods/songs/too-slow-encore/voices.ogg
+mods/songs/too-slow-encore/inst.ogg
